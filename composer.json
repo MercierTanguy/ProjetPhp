@@ -1,0 +1,17 @@
+{
+    "name": "zest5/project_php",
+    "autoload": {
+        "psr-4": {
+            "Zest5\\ProjectPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MercierTanguy",
+            "email": "tanguy.mercier@efrei.net"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.7"
+    }
+}
